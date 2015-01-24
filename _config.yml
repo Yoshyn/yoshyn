@@ -1,4 +1,3 @@
 name: Yoshyn, Sample Github Page
 markdown: kramdown
-
 permalink: /blog/:year/:month/:day/:title

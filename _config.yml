@@ -1,3 +1,15 @@
-name: Yoshyn, Sample Github Page
+# Site settings
+title: Sylvestre Antoine
+email: sylvestre[dot]antoine[at]gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+#twitter_username: yoshyn
+github_username:  yoshyn
+
+# Build settings
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+highlighter: pygments
+
+# gems:
+  # - jekyll-redirect-from
+  # - jekyll-sitemap

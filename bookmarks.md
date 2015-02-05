@@ -10,6 +10,7 @@ Set of bookmarks on this page. Simpler than install a [Shaarli](https://github.c
 
   * **Unsorted**
     * [Git explain with D3](http://www.wei-wang.com/ExplainGitWithD3/) - *wei-wang.com* (en)
+    * [Linklogs with jekyll](http://mikebuss.com/2015/01/27/linklogs-with-jekyll/) - *mikebuss.com* (en)
 
   * **JS**
     * [Existing frameworks list](https://ypereirareis.github.io/material-design-resources/) - *ypereirareis.github.io* (en)
@@ -32,6 +33,8 @@ Set of bookmarks on this page. Simpler than install a [Shaarli](https://github.c
 
   * **Attacks**
     * [Cracking password, windows, wep, wap, ect.](http://0x0ff.info/2014/cracking-password-fiche-memo/) - *0x0ff.info* (en)
+    * [Password Cracking Tools list](http://zythom.blogspot.com/2013/09/cracker-les-mots-de-passe.html) - *zythom.blogspot.com* (fr)
+    * [Password Recovery & Password cracking](http://hashcat.net/oclhashcat/) - *hashcat.net* (en)
     * [Ettercap, Man and the middle tutorial](http://www.openmaniak.com/fr/ettercap.php) - *openmaniak.com* (fr)
 
   * **Anonymization**
@@ -61,9 +64,10 @@ Set of bookmarks on this page. Simpler than install a [Shaarli](https://github.c
     * [fasd, Command-line productivity booster](https://github.com/clvv/fasd) - *github.com* (en)
     * [Oh my zsh & Prezto, beautiful terminal experience](http://mikebuss.com/2014/02/02/a-beautiful-productive-terminal-experience/) - *mikebuss.com* (en)
     * [Rename multiple files in Unix](http://stackoverflow.com/questions/1086502/rename-multiple-files-in-unix) - *stackoverflow.com* - *[.fileX to dot.fileX : "rename -v 's/.*\././g' dot.*"]* (en)
+    * [Httrack, a website copier](http://www.httrack.com) - *httrack.com* (fr)
 
   * **Firefox**
-    * [Ublock, block everything](https://n.survol.fr/n/comment-jai-tout-bloque) - *n.survol.fr* (fr)
+    * [Ublock, block everything](https://n.survol.fr/n/comment-jai-tout-bloque) - *n.survol.fr & github.com/gorhill/uBlock* (fr)
     * [Configuration for light configuration. Privoxy, NoScript, ect.](http://libre-ouvert.toile-libre.org/index.php?article207/optimiser-firefox-pour-les-petites-configurations) - *libre-ouvert.toile-libre.org* (fr)
     * [Stylish for production website](https://addons.mozilla.org/fr/firefox/addon/stylish/) - *addons.mozilla.org* - *[[Matching CSS](https://gist.github.com/Yoshyn/5e5debe49d0f710cbac2)]* (en)
 
@@ -75,6 +79,7 @@ Set of bookmarks on this page. Simpler than install a [Shaarli](https://github.c
   * **Tech Readings**
     * [Journal du Pirate](https://infos.mytux.fr/) - *infos.mytux.fr* (fr)
     * [Shaarlo, Agregateur de Shaarli](https://www.shaarli.fr/) - *shaarli.fr* (fr)
+    * [Hoper blog](http://hoper.dnsalias.net/) - *hoper.dnsalias.net* (fr)
 
   * **Blog BD**
     * [Section of life](http://grumeautique.blogspot.com) - *grumeautique.blogspot.com* (fr)
@@ -89,6 +94,7 @@ Set of bookmarks on this page. Simpler than install a [Shaarli](https://github.c
 
   * **Unsorted**
     * [Free Debrider](http://pandoon.info/debrideurs/) - *pandoon.info* (fr)
+    * [Invest in a business](https://www.anaxago.com/) - *anaxago.com* (fr)
 
   * **Open Data**
     * [OSM Tchoutchou, Live french train map](http://www.raildar.fr) - *raildar.fr* (fr)

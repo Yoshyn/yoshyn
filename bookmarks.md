@@ -38,6 +38,7 @@ Set of bookmarks on this page. Simpler than install a [Shaarli](https://github.c
     * [Password Cracking Tools list](http://zythom.blogspot.com/2013/09/cracker-les-mots-de-passe.html) - *zythom.blogspot.com* (fr)
     * [Password Recovery & Password cracking](http://hashcat.net/oclhashcat/) - *hashcat.net* (en)
     * [Ettercap, Man and the middle tutorial](http://www.openmaniak.com/fr/ettercap.php) - *openmaniak.com* (fr)
+    * [Snifing tool by hopper](http://hoper.dnsalias.net/tdc/index.php?post/2015/02/10/myst-:-le-blackhat-tool-de-madame-michu) - *hoper.dnsalias.net* (fr)
 
   * **Anonymization**
     * [Tutorial install I2P](https://korben.info/comment-installer-i2p.html) - *korben.info* (fr)
@@ -46,6 +47,7 @@ Set of bookmarks on this page. Simpler than install a [Shaarli](https://github.c
   * **Protection**
     * [Ubuntu, clamav antivirus](http://doc.ubuntu-fr.org/clamav) - *doc.ubuntu-fr.org* (fr)
     * [Ubuntu, anti rootkit](http://doc.ubuntu-fr.org/rootkit) - *doc.ubuntu-fr.org* (fr)
+    * [Find outdated library](http://blog.pastoutafait.fr/billets/Am%C3%A9liorer-la-s%C3%A9curit%C3%A9-avec-CheckRestart-sous-Debian-Ubuntu) - *blog.pastoutafait.fr* (fr)
     * [Ubuntu, portsentry, detect and avoid scan port](http://www.noobunbox.net/serveur/securite/installer-et-configurer-portsentry-debian-ubuntu/) - *noobunbox.net* (fr)
     * [Benchmark/stress test web server](http://blog.adminrezo.fr/2013/10/benchmark-de-votre-serveur-web-avec-ab/) - *blog.adminrezo.fr* (fr)
 

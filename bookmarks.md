@@ -19,7 +19,7 @@ Set of bookmarks on this page. Simpler than install a [Shaarli](https://github.c
 
   * **Ruby & Rails**
     * [RubyHunt, dashbord of interresting posts in ruby](http://rubyhunt.org/top/20) - *rubyhunt.org* (en)
-    * [Awsome Ruby, List of awsome gem in ruby](awesome-ruby.com) - *awesome-ruby.com* (en)
+    * [Awsome Ruby, List of awsome gem in ruby](http://awesome-ruby.com) - *awesome-ruby.com* (en)
     * [Active Record attributes callback](http://new.davidverhasselt.com/2011/06/28/5-ways-to-set-attributes-in-activerecord-in-rails-3/) - *new.davidverhasselt.com* (en)
     * [A fast API with ActionController::Metal](http://railsware.com/blog/2013/04/08/api-with-ruby-on-rails-useful-tricks/) - *railsware.com* (en)
     * [A nomenclature for API](http://blog.arkency.com/2013/01/rails-api-my-approach/) - *blog.arkency.com* (en)

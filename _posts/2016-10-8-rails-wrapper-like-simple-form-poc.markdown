@@ -9,8 +9,11 @@ tags: rails
 Have you ever ask you how to implement a wrapper like simple form ?
 
 What is the purpose ?
+
   * Challenge of course
+
   * But also make your helper lighter
+
   * Or simply prepare to implement a simple_form like system
 
 Here is an exemple of utilisation :
@@ -82,6 +85,6 @@ Which render :
 
 {% endhighlight %}
 
-The code that make this work is commented and tested into this gist :
+The code that make this work is commented and tested into this [gist](https://gist.github.com/Yoshyn/6f2bd8b67d366bf55de8677ab67b7736) !
 
-https://gist.github.com/Yoshyn/6f2bd8b67d366bf55de8677ab67b7736
+

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Make a wrapper like (almost) simple_form (en)"
-date:   2016-10-22 13:53:0
+date:   2016-10-08 13:53:0
 categories: article
 tags: rails
 ---

@@ -74,6 +74,7 @@ Set of bookmarks on this page. Simpler than install a [Shaarli](https://github.c
     * [Oh my zsh & Prezto, beautiful terminal experience](http://mikebuss.com/2014/02/02/a-beautiful-productive-terminal-experience/) - *mikebuss.com* (en)
     * [Rename multiple files in Unix](http://stackoverflow.com/questions/1086502/rename-multiple-files-in-unix) - *stackoverflow.com* - *[.fileX to dot.fileX : "rename -v 's/.*\././g' dot.*"]* (en)
     * [Gimp, supprimer un objet d'une image](http://www.scriptol.fr/design/gimp/supprimer-objet.php) - *scriptol.fr* (fr)
+    * [Gimp, supprimer un objet d'une image 2](http://www.commentcamarche.net/faq/3228-supprimer-des-elements-d-une-image) - *commentcamarche.net* (fr)
     * [Capture a gif](http://blog.niqnutn.com/index.php?article38/byzanz-capture-d-ecran-au-format-gif) - *blog.niqnutn.com* (fr)
 
   * **Firefox**

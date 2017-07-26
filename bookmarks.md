@@ -40,10 +40,12 @@ Set of bookmarks on this page. Simpler than install a [Shaarli](https://github.c
     * [Password Recovery & Password cracking](http://hashcat.net/oclhashcat/) - *hashcat.net* (en)
     * [Ettercap, Man and the middle tutorial](http://www.openmaniak.com/fr/ettercap.php) - *openmaniak.com* (fr)
     * [Snifing tool by hopper](http://hoper.dnsalias.net/tdc/index.php?post/2015/02/10/myst-:-le-blackhat-tool-de-madame-michu) - *hoper.dnsalias.net* (fr)
+    * [Discovery, portscanning and operating system fingerprinting.](https://github.com/suraj-root/nwatch) - *github.com* (en)
     * [Httrack, a website copier](http://www.httrack.com) - *httrack.com* (fr)
     * [Dirb, a web content scanner](http://tools.kali.org/web-applications/dirb) - *github.com/seifreed/dirb* (fr) 
     * [WPScan, WordPress vulnerability scanner](https://github.com/wpscanteam/wpscan) - *github.com* (fr)
     * [Extract photo informations](http://fotoforensics.com/) - *fotoforensics.com* (fr)
+    * [HashManipulation](https://github.com/Ekultek/Dagon) - *github.com* (en)
 
   * **Anonymization**
     * [Tutorial install I2P](https://korben.info/comment-installer-i2p.html) - *korben.info* (fr)

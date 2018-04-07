@@ -33,6 +33,7 @@ Set of bookmarks on this page. Simpler than install a [Shaarli](https://github.c
     * [Install Kali Linux on USB without unetbootin](http://docs.kali.org/installation/kali-linux-live-usb-install) - *docs.kali.org* (en)
     * [Retrive data from an Damaged Hard Drive](http://www.cgsecurity.org/wiki/Disque_Dur_Endommag%C3%A9#.27dd_rescue.27_par_Kurt_Garloff) - *cgsecurity.org* (fr)
     * [Reverse Image Search](https://www.tineye.com/) - *tineye.com* (en)
+    * [Search User. Pls Also think to FB & phone number](https://usersearch.org/) - *usersearch.org* (en)
 
   * **Attacks**
     * [Cracking password, windows, wep, wap, ect.](http://0x0ff.info/2014/cracking-password-fiche-memo/) - *0x0ff.info* (en)
@@ -116,3 +117,5 @@ Set of bookmarks on this page. Simpler than install a [Shaarli](https://github.c
   * **Tutorials**
     * [Recycle cans with house foundry](http://www.lidd.fr/lidd/18141-une-fonderie-maison-pour-recycler-canettes) - *lidd.fr* (fr)
     * [Barnabé Chaillot, L'energie autrement](http://energie-autrement.blogspot.fr/) - *energie-autrement.blogspot.fr* (fr)
+    * [Fabriquer une éolienne verticale](http://burogu.makotoworkshop.org/index.php?post/2015/10/24/eolienne-axe-vertical-4) - *burogu.makotoworkshop.org* (fr)
+

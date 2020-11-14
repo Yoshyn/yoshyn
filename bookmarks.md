@@ -113,6 +113,8 @@ Set of bookmarks on this page. Simpler than install a [Shaarli](https://github.c
 
   * **Open Data**
     * [Set of open data (Code INSEE mapping, doctor, ect.)](http://public.opendatasoft.com) - *opendatasoft.com* (fr)
+    * [Informations on french company](https://societe.ninja/) - *societe.ninja* (fr)
+    * [Informations on french company](https://www.pappers.fr/) - *pappers.fr* (fr)
 
   * **Tutorials**
     * [Recycle cans with house foundry](http://www.lidd.fr/lidd/18141-une-fonderie-maison-pour-recycler-canettes) - *lidd.fr* (fr)
